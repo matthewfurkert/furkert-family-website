@@ -1,4 +1,4 @@
-# Astro Starter Kit: Blog
+# Furkert Website: Built From Astro Starter Kit
 
 [![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/cloudflare/templates/tree/main/astro-blog-starter-template)
 
